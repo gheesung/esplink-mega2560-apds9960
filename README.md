@@ -14,4 +14,4 @@ Sparkfun library (SparkFun_APDS9960.h) has a checking at check the valid ID is r
 ## ELClient library
 This library (https://github.com/jeelabs/el-client) managed the communication between ESP-link and the Mega2560.
 
-More details about the setup can be found at 
+More details about the setup can be found at http://iotdiary.blogspot.sg/2017/11/esp-link-on-atmega2560esp8266-board.html

@@ -3,7 +3,7 @@
 This sketch get the uses the following library.
 
 ## SparkFun APDS9960 library
-Sparkfun library (SparkFun_APDS9960.h) has a checking at check the valid ID is return by the device. For compatible module bought from China, this value has to change according. 
+Sparkfun library (SparkFun_APDS9960.h) has a checking for the valid device ID. For compatible module bought from China, this value has to change according. 
 
 ```C
 // Acceptable device IDs 
